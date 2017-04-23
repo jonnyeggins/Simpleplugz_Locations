@@ -5,3 +5,4 @@
 <p>This is where release notes and reported bugs will be notified</p>
 
 <p>Current stable Version 0.1.2</p>
+<p>Demo Located here https://demo.simpleplugz.com/locations/</p>
