@@ -1,35 +1,35 @@
-Simpleplugz_Locations
-===================
+# Simpleplugz_Locations
+Description
+------------
 Store Finder for Magento 2.
----------------------------------------------
-Simpleplugz Locations is an store finder extension for Magento 2.
----------------------------------------------
 
+Simpleplugz Locations is an store finder extension for Magento 2.
 Google Maps API key required  - Get key [here](https://developers.google.com/maps/documentation/directions/get-api-key)
----------------------------------------------
-It is designed to be easy to setup, and start using as quick as possible. Then when you need to add more information and use advanced features, you can do that.   Perfect for New Magento 2 admins.
----------------------------------------------
+It is designed to be easy to setup, and start using as quick as possible. Then when you need to add more information and use advanced features, you can do that. Perfect for New Magento 2 admins.
+------------
+
 Features
-	For Customers
-		- Search by postcode/zipcode (autocomplete)
-		- Search by full address  (autocomplete)
-		- Requests customer’s location
-		- Customer see stores closest to them, based off distance
-		- Path shown of how to get to store from their location
-		- Links straight to Google maps for turn by turn navigation
-		- Popup information
-		- Mobile Friendly
-	For Admins
-		- Designed for New Magento Admins.
-		- Quick Setup
-		- Add/remove new locations forms
-		- Manage unusual opening hours like holidays (years in advance)
-		- Import/Update Mass Locations/opening times using CSV upload
-		- Customisable locator pins for each location
-		- Setup full store details pages easily with pretty url for sharing/SEO
-		- Template overrides for easy customizations to suit your site
-		- Detail like Manager/Phone/Email/Images/ easy to update
-		- Allows HTML descriptions to embed videos or iframes.
+------------
+##### For Customers
+* Search by postcode/zipcode (autocomplete)
+* Search by full address  (autocomplete)
+* Requests customer’s location
+* Customer see stores closest to them, based off distance
+* Path shown of how to get to store from their location
+* Links straight to Google maps for turn by turn navigation
+* Popup information
+* Mobile Friendly
+##### For Admins
+* Designed for New Magento Admins.
+* Quick Setup
+* Add/remove new locations forms
+* Manage unusual opening hours like holidays (years in advance)
+* Import/Update Mass Locations/opening times using CSV upload
+* Customisable locator pins for each location
+* Setup full store details pages easily with pretty url for sharing/SEO
+* Template overrides for easy customizations to suit your site
+* Detail like Manager/Phone/Email/Images/ easy to update
+* Allows HTML descriptions to embed videos or iframes.
 
 
 User Guide
