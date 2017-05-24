@@ -9,8 +9,7 @@ Description
 
  It is designed to be easy to setup, and start using as quick as possible. Then when you need to add more information and use advanced features, you can do that. Perfect for New Magento 2 admins.
  
-------------
-------------
+---------------------------------------------
 
 Quick Installation Guide
 ---------------------------------------------
@@ -46,7 +45,6 @@ Features
 User Guide
 ------------
 [https://github.com/jonnyeggins/Simpleplugz_Locations/blob/master/UserGuide.pdf](https://github.com/jonnyeggins/Simpleplugz_Locations/blob/master/UserGuide.pdf)
--------------------------------
 
 Requirements
 ------------
