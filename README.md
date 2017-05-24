@@ -1,10 +1,10 @@
 # Simpleplugz_Locations
 Description
 ------------
-###### Store Finder for Magento 2.
-###### Simpleplugz Locations is an store finder extension for Magento 2.
-###### Google Maps API key required  - Get key [here](https://developers.google.com/maps/documentation/directions/get-api-key)
-###### It is designed to be easy to setup, and start using as quick as possible. Then when you need to add more information and use advanced features, you can do that. Perfect for New Magento 2 admins.
+ Store Finder for Magento 2.
+ Simpleplugz Locations is an store finder extension for Magento 2.
+ Google Maps API key required  - Get key [here](https://developers.google.com/maps/documentation/directions/get-api-key).
+ It is designed to be easy to setup, and start using as quick as possible. Then when you need to add more information and use advanced features, you can do that. Perfect for New Magento 2 admins.
 ------------
 
 Quick Installation Guide
